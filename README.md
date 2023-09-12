@@ -7,7 +7,7 @@ The primary objective of this project is to evaluate the efficacy of two marketi
 This repository contains a detailed data science project that analyzes marketing campaigns using various data science skills, including preprocessing, visualization, and hypothesis testing. Throughout the project, there were instances where unexpected results in visualizations and deviations from planned hypothesis tests led to adaptions in the analysis. This attention to detail was crucial in producing a robust recommendation based on precise and comprehensive analysis.
 
 ## Data Sources
-- 'Dataset Name' by [Amir Motefaker](https://www.kaggle.com/Amir Motefaker)
+- 'Dataset Name' by [Amir Motefaker](https://www.kaggle.com/Amir-Motefaker)
 
 
 ## Project Structure
