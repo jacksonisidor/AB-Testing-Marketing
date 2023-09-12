@@ -8,6 +8,7 @@ This repository contains a detailed data science project that analyzes marketing
 
 ## Data Sources
 ['A/B Testing DataSet'](https://www.kaggle.com/datasets/amirmotefaker/ab-testing-dataset) by [Amir Motefaker](https://www.kaggle.com/amirmotefaker)
+kaggle datasets download -d amirmotefaker/ab-testing-dataset
 
 
 ## Project Structure
