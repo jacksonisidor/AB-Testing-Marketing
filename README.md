@@ -1,53 +1,30 @@
-# Marketing A/B Testing Project
+# A/B Testing on Marketing Strategies
+
+## Goal
+The primary objective of this project is to evaluate the efficacy of two marketing strategies and provide a thorough recommendation on how to move forward.
 
 ## Overview
+This repository contains a detailed data science project that analyzes marketing campaigns using various data science skills, including preprocessing, visualization, and hypothesis testing. Throughout the project, there were instances where unexpected results in visualizations and deviations from planned hypothesis tests led to adaptions in the analysis. This attention to detail was crucial in producing a robust recommendation based on precise and comprehensive analysis.
 
-This repository contains the code and analysis for a marketing A/B testing project aimed at evaluating the effectiveness of different marketing strategies. The project explores various metrics, conducts hypothesis testing, and provides recommendations based on the findings.
+## Data Sources
+- 'Dataset Name' by [Amir Motefaker](https://www.kaggle.com/Amir Motefaker)
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Project Structure](#project-structure)
-- [Usage](#usage)
-- [Data](#data)
-- [Analysis](#analysis)
-- [Results](#results)
-- [Recommendations](#recommendations)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
-Provide a brief introduction to your marketing A/B testing project, including the objectives, goals, and context.
 
 ## Project Structure
+#### Data Folder
+  - `preprocessing.ipynb`: A Jupyter Notebook outlining the meticulous data preprocessing and cleaning steps undertaken.
+  - `careers.csv`: A dataset encompassing NBA players' career statistics.
+  - `modern_seasons.csv`: A dataset containing NBA season statistics from the modern era.
+  - `seasons.csv`: A dataset comprising NBA season statistics since 1947.
+  - `References.md`: Credit to the sources I used to create the aformentioned datasets
 
-Explain the structure of your project's directory, highlighting important files and directories.
+#### visualization Folder:
+  - `ASG_Factors.md`: Visualizations showcasing the relationship between season statistics and all-star selections.
+  - `HOF_Factors.md`: Visualizations illustrating the link between career statistics and Hall of Fame status.
 
-## Usage
+#### Predictions Folder
+  - `hof_model.ipynb`: A Jupyter Notebook containing the creation of the Hall of Fame predictive model
+  - `hof_chances_list.csv`: A list of active players and their Hall of Fame probability assigned by the model
+  - `all_star_model.ipynb`: A Jupyter Notebook containing the creation of the All-Star predictive model
 
-Provide instructions on how to run the code and reproduce the analysis.
 
-## Data
-
-Describe the data used in the project, including its source, format, and any preprocessing steps.
-
-## Analysis
-
-Explain the data analysis process, including the statistical methods and tools used for A/B testing.
-
-## Results
-
-Summarize the key findings from your analysis. Include visualizations, graphs, or tables to support your results.
-
-## Recommendations
-
-Provide recommendations based on the results of the A/B testing. Discuss any actionable insights or strategies that can be implemented.
-
-## Contributing
-
-If you'd like to contribute to this project, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
